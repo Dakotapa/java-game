@@ -1,4 +1,4 @@
-# csci201finalproject
+#Java 2D Multiplayer Game Project
 
 How to run in Eclipse:
 
